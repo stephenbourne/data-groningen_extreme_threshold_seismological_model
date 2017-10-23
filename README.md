@@ -49,6 +49,14 @@ Space separated values of depth below datum [m] of the Top Rotliegend horizon
 within a regular 50 m by 50 m grid obtained from interpretation of a reflection 
 seismic image of the reservoir.
 
+EventCatalogue_20161231.csv
+===========================
+Extract from the KNMI earthquake catalogue for events within the Groningen field area.
+Comma separated values characterize every report event with the following attributes
+Place [string], Date [DD/MM/YYYY], Time [hh:mm:ss], Magnitude [local magnitude], Depth [km], 
+Easting [m], Northing [m].
+
+
 
 
 
