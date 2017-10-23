@@ -52,7 +52,7 @@ seismic image of the reservoir.
 EventCatalogue_20161231.csv
 ===========================
 Extract from the KNMI earthquake catalogue for events within the Groningen field area.
-Comma separated values characterize every report event with the following attributes
+Comma separated values characterize every report event with the following attributes:
 Place [string], Date [DD/MM/YYYY], Time [hh:mm:ss], Magnitude [local magnitude], Depth [km], 
 Easting [m], Northing [m].
 
